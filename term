@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terms of Service (Private Use Only)</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; max-width: 850px; margin: 40px auto; padding: 20px; border: 1px solid #c0c0c0; border-radius: 8px; background-color: #f9f9f9; }
+        h1 { color: #d63300; border-bottom: 2px solid #d63300; padding-bottom: 10px; }
+        h2 { color: #333; margin-top: 25px; }
+        .warning { color: #8a6d3b; background-color: #fcf8e3; border: 1px solid #faebcc; padding: 15px; border-radius: 4px; margin-bottom: 20px; font-weight: bold; }
+        ul { list-style: disc; margin-left: 20px; }
+        strong { font-weight: bold; color: #000; }
+        .contact { margin-top: 30px; padding: 15px; background-color: #eee; border-left: 5px solid #d63300; }
+    </style>
+</head>
+<body>
+
+    <h1>⚠️ Terms of Service (Private, Non-Commercial Release) ⚠️</h1>
+
+    <div class="warning">
+        **WARNING: THIS SERVICE/PRODUCT WAS DEVELOPED FOR PRIVATE, LIMITED, OR EXPERIMENTAL USE ONLY. IT IS NOT INTENDED FOR COMMERCIAL PUBLIC USE. BY CONTINUING TO USE THIS SERVICE, YOU ACKNOWLEDGE AND ACCEPT ALL RISKS AND THE ABSENCE OF FORMAL LEGAL PROTECTIONS.**
+    </div>
+
+    <h2>1. Acceptance of Terms</h2>
+    <p>By accessing or using this service/product (the "Service"), you agree to be bound by these candid Terms of Service ("Terms"). **If you do not agree to these Terms, you must not use the Service.**</p>
+
+    <h2>2. Nature of the Service</h2>
+    <p>This Service is:</p>
+    <ul>
+        <li>Provided on a **strictly non-commercial, experimental basis.**</li>
+        <li>Intended for a **limited, private user base** and was not designed for mass market distribution or formal legal compliance.</li>
+        <li>Subject to change, termination, or disappearance at any time without notice.</li>
+    </ul>
+
+    <h2>3. Disclaimer of Warranties (AS IS)</h2>
+    <p>YOU EXPRESSLY UNDERSTAND AND AGREE THAT:</p>
+    <ul>
+        <li>YOUR USE OF THE SERVICE IS AT YOUR SOLE RISK.</li>
+        <li>THE SERVICE IS PROVIDED ON AN **"AS IS"** AND **"AS AVAILABLE"** BASIS.</li>
+        <li>WE EXPRESSLY DISCLAIM ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.</li>
+        <li>WE MAKE NO WARRANTY THAT (i) THE SERVICE WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE, or (ii) THE QUALITY OF ANY PRODUCT, SERVICE, INFORMATION, OR OTHER MATERIAL OBTAINED BY YOU THROUGH THE SERVICE WILL MEET YOUR EXPECTATIONS.</li>
+    </ul>
+
+    <h2>4. Limitation of Liability</h2>
+    <p>YOU EXPRESSLY UNDERSTAND AND AGREE THAT WE SHALL NOT BE LIABLE TO YOU FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES, INCLUDING BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, GOODWILL, DATA, OR OTHER INTANGIBLE LOSSES, RESULTING FROM:</p>
+    <ul>
+        <li>THE USE OR THE INABILITY TO USE THE SERVICE.</li>
+        <li>UNAUTHORIZED ACCESS TO OR ALTERATION OF YOUR DATA OR TRANSMISSIONS.</li>
+        <li>ANY OTHER MATTER RELATING TO THE SERVICE.</li>
+    </ul>
+
+    <h2>5. User Conduct and Assumption of Risk</h2>
+    <p>You agree to use the Service in a responsible manner. You acknowledge that, given the non-commercial and private nature of this Service, you **assume all risk and legal responsibility** for any content you post or actions you take while using the Service.</p>
+
+    <h2>6. Entire Agreement and Changes</h2>
+    <p>These Terms, together with the accompanying Service Usage and Data Non-Policy, constitute the entire agreement between you and us. We reserve the right to update these Terms at any time, but given the nature of the service, formal notification is unlikely.</p>
+
+    <div class="contact">
+        <h3>Contact for Operational or Content Issues</h3>
+        <p>For issues related to the Service's operation, these Terms, or any posted content, please contact:</p>
+        <p><strong>Email:</strong> <a href="mailto:muhammad@gmail.com">muhammad@gmail.com</a></p>
+    </div>
+
+    <p><em>These Terms were last updated: November 17, 2025</em></p>
+
+</body>
+</html>
